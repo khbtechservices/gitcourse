@@ -44,4 +44,4 @@ See it in action: <https://git-school.github.io/visualizing-git>
 
 -   `git branch {branch_name}` to create new branch
 -   `git checkout -b {branch_name}` to create a new branch with name {branch_name} and immediately move to it
--   A new bullet
+-   `git checkout {branch_name}` to switch to a given branch
