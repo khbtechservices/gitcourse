@@ -49,3 +49,11 @@ See it in action: <https://git-school.github.io/visualizing-git>
 **Stashing**
 
 Need to look into this a little more.
+
+**Clone**
+
+-   `git clone {URL}` to clone a repository
+
+**Pull**
+
+-   `git pull` to pull changes down from the repository
