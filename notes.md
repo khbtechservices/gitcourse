@@ -45,3 +45,7 @@ See it in action: <https://git-school.github.io/visualizing-git>
 -   `git branch {branch_name}` to create new branch
 -   `git checkout -b {branch_name}` to create a new branch with name {branch_name} and immediately move to it
 -   `git checkout {branch_name}` to switch to a given branch
+
+**Stashing**
+
+Need to look into this a little more.
