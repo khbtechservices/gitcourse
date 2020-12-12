@@ -14,3 +14,26 @@ These are notes that I've taken throughout the course
 -   `git status`
 -   `git diff (--staged)`
 -   `git commit -a` to skip `git add`
+
+### Module 4
+
+**git log**
+
+-   `git log` to show list of commits
+-   `git log -{#}` to show specific number of recent commits
+-   `git log --online` to show list of commits
+-   `git log --stats` show longer details about each commit
+-   `git log --patch` to show log with diff results
+
+**git commit naming guidelines**
+
+Chris Beams: <https://chris.beams.io/posts/git-commit>
+
+**Removing Files**
+
+-   `git rm {filename}` to stage removal and untrack (removes file from local FS as well).
+-   `git rm --cached {filename}` to untrack, but not remove
+
+**Rename/Moving Files**
+
+-   `git mv {old} {new}` to rename {old} to {new} in project
