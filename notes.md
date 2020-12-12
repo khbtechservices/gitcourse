@@ -37,3 +37,11 @@ Chris Beams: <https://chris.beams.io/posts/git-commit>
 **Rename/Moving Files**
 
 -   `git mv {old} {new}` to rename {old} to {new} in project
+
+**Branching**
+
+See it in action: <https://git-school.github.io/visualizing-git>
+
+-   `git branch {branch_name}` to create new branch
+-   `git checkout -b {branch_name}` to create a new branch with name {branch_name} and immediately move to it
+-   A new bullet
